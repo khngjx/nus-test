@@ -8,3 +8,5 @@ I am adding some text here
 * and this is another one
 
 ## Even smaller headline
+
+![](sentosa-island_carousel1_640x640.jpg)
